@@ -1,0 +1,407 @@
+{
+	"label": "A Potpourri of Objects",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged",
+	"metadata": [],
+	"thumbnail": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/80,100/0/default.jpg",
+	"attribution": "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from the Digitization Centre: http://digitize.library.ubc.ca/",
+	"items": [
+		{
+			"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/sequence/normal",
+			"@type": "sc:Sequence",
+			"label": "Abbotsford Post",
+			"viewingDirection": "left-to-right",
+			"viewingHint": "paged",
+			"canvases": [
+				{
+					"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/canvas/p0000",
+					"@type": "sc:Canvas",
+					"label": "AbbotsfordPost_358948",
+					"height": 3000,
+					"width": 2036,
+					"metadata": [
+						{
+							"label": "Title",
+							"value": "358948"
+						}
+					],
+					"images": [
+						{
+							"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/annotation/p0000",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 3000,
+								"width": 2036,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000",
+									"@profile": "http://iiif.io/api/image/2/level2.json",
+									"height": 3000,
+									"width": 2036,
+									"scaleFactors": [
+										1,
+										2,
+										4,
+										8,
+										16,
+										32,
+										64,
+										128,
+										256,
+										512,
+										1024
+									]
+								}
+							},
+							"on": "https://iiif.library.ubc.ca/cdm.xabpost.1-0168453/canvas/p0000"
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/canvas/p0001",
+					"@type": "sc:Canvas",
+					"label": "AbbotsfordPost_358948358951",
+					"height": 3000,
+					"width": 1977,
+					"metadata": [
+						{
+							"label": "Title",
+							"value": "358951"
+						}
+					],
+					"images": [
+						{
+							"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/annotation/p0001",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0001",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 3000,
+								"width": 1977,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0001",
+									"@profile": "http://iiif.io/api/image/2/level2.json",
+									"height": 3000,
+									"width": 1977,
+									"scaleFactors": [
+										1,
+										2,
+										4,
+										8,
+										16,
+										32,
+										64,
+										128,
+										256,
+										512,
+										1024
+									]
+								}
+							},
+							"on": "https://iiif.library.ubc.ca/cdm.xabpost.1-0168453/canvas/p0001"
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/canvas/p0005",
+					"@type": "sc:Canvas",
+					"label": "AbbotsfordPost_358948358956",
+					"height": 3000,
+					"width": 1976,
+					"metadata": [
+						{
+							"label": "Title",
+							"value": "358956"
+						}
+					],
+					"images": [
+						{
+							"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/annotation/p0005",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0005",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 3000,
+								"width": 1976,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0005",
+									"@profile": "http://iiif.io/api/image/2/level2.json",
+									"height": 3000,
+									"width": 1976,
+									"scaleFactors": [
+										1,
+										2,
+										4,
+										8,
+										16,
+										32,
+										64,
+										128,
+										256,
+										512,
+										1024
+									]
+								}
+							},
+							"on": "https://iiif.library.ubc.ca/cdm.xabpost.1-0168453/canvas/p0005"
+						}
+					]
+				},
+				{
+					"@id": "http://cb0f3fd9-ef05-456c-a9b1-ff6179fc9f87",
+					"@type": "sc:Canvas",
+					"label": "E.G. Shorter as General Manager, in old office at Alberni Pulp and Paper Division",
+					"height": 1784,
+					"width": 1819,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2f64be30-d654-4904-ade1-e01f19b95fff",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349237.0000/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349237.0000",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"gif",
+												"webp"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationArbitrary",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 1784,
+								"width": 1819
+							},
+							"on": "http://cb0f3fd9-ef05-456c-a9b1-ff6179fc9f87"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fa612c69-748a-43a8-9efa-526aa8299f6b",
+					"@type": "sc:Canvas",
+					"label": "Port Alberni Pulp Mill lime kiln stack, April 21",
+					"height": 5985,
+					"width": 3470,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://53fc6e7f-bf8c-4636-80dc-35a4bd749536",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349208.0000/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349208.0000",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"gif",
+												"webp"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationArbitrary",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 5985,
+								"width": 3470
+							},
+							"on": "http://fa612c69-748a-43a8-9efa-526aa8299f6b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://eb41be06-8c35-4b6f-867c-7b864851fd77",
+					"@type": "sc:Canvas",
+					"label": "Farm scrap builds destroyers. 900 tons of scrap metal goes into a destroyer",
+					"height": 4105,
+					"width": 2970,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c5a7e938-522b-4b32-9b22-a0924eec1261",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038304.0000/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038304.0000",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"gif",
+												"webp"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationArbitrary",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 4105,
+								"width": 2970
+							},
+							"on": "http://eb41be06-8c35-4b6f-867c-7b864851fd77"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e5cd555e-5ae5-431d-84b4-45201993871a",
+					"@type": "sc:Canvas",
+					"label": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station",
+					"height": 7823,
+					"width": 5161,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5dbe00df-1632-4f66-aecf-3e6b45d5e438",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038245.0000/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://oc2-iiif.library.ubc.ca/image/cdm.wwposters.1-0038245.0000",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"gif",
+												"webp"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"rotationArbitrary",
+												"rotationBy90s",
+												"sizeByWhListed",
+												"sizeByForcedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 7823,
+								"width": 5161
+							},
+							"on": "http://e5cd555e-5ae5-431d-84b4-45201993871a"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"description": "The Abbotsford Post was published in Abbotsford, in the Fraser Valley region of southwestern British Columbia. The Post was published and edited by John Alexander Bates, and it was the first paper targeted specifically at the Abbotsford area. The paper has since been bought and sold a number of times, and continues to be published to this day under the title of the Abbotsford News.",
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest.json",
+	"@type": "sc:Manifest"
+}
