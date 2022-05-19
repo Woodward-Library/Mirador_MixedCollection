@@ -402,6 +402,6 @@
 	],
 	"description": "The Abbotsford Post was published in Abbotsford, in the Fraser Valley region of southwestern British Columbia. The Post was published and edited by John Alexander Bates, and it was the first paper targeted specifically at the Abbotsford area. The paper has since been bought and sold a number of times, and continues to be published to this day under the title of the Abbotsford News.",
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/manifest",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest.json",
 	"@type": "sc:Manifest"
 }
