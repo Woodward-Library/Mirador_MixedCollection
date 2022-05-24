@@ -5,6 +5,14 @@
 	"metadata": [],
 	"thumbnail": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/80,100/0/default.jpg",
 	"attribution": "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from the Digitization Centre: http://digitize.library.ubc.ca/",
+	{
+    "accompanyingCanvas": {
+      "id": "https://example.org/iiif/1/canvas/accompany",
+      "type": "Canvas",
+      "duration": 180.0
+    }
+  }
+
 	"sequences": [
 		{
 			"@id": "https://iiif.library.ubc.ca/presentation/cdm.xabpost.1-0168453/sequence/normal",
