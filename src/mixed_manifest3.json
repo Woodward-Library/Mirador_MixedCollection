@@ -22,7 +22,7 @@
 					"metadata": [
 						{
 							"label": "Title",
-							"value": "358948"
+							"value": "Abbotsford Post - Page 1"
 						},
 						{
 							"label": "Description",
@@ -86,7 +86,23 @@
 					"metadata": [
 						{
 							"label": "Title",
-							"value": "358951"
+							"value": "Abbotsford Post - Page 2"
+						},
+						{
+							"label": "Description",
+							"value": "This is the second page of the April 19, 1912 edition of the Abbotsford Post"
+						},
+						{
+							"label": "Publisher",
+							"value": "Abbotsford Post"
+						},
+						{
+							"label": "Object Type",
+							"value": "Newspaper"
+						},
+						{
+							"label": "Link to more information",
+							"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
 						}
 					],
 					"images": [
@@ -134,7 +150,23 @@
 					"metadata": [
 						{
 							"label": "Title",
-							"value": "358956"
+							"value": "Abbotsford Post - Page 3"
+						},
+						{
+							"label": "Description",
+							"value": "This is the THIRD page of the April 19, 1912 edition of the Abbotsford Post"
+						},
+						{
+							"label": "Publisher",
+							"value": "Abbotsford Post"
+						},
+						{
+							"label": "Object Type",
+							"value": "Newspaper"
+						},
+						{
+							"label": "Link to more information",
+							"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
 						}
 					],
 					"images": [
@@ -179,6 +211,28 @@
 					"label": "E.G. Shorter as General Manager, in old office at Alberni Pulp and Paper Division",
 					"height": 1784,
 					"width": 1819,
+					"metadata": [
+						{
+							"label": "Title",
+							"value": "E.G. Shorter - at his desk"
+						},
+						{
+							"label": "Description",
+							"value": "E.G. Shorter as General Manager, in old office at Alberni Pulp and Paper Division"
+						},
+						{
+							"label": "Author",
+							"value": "Joe Photographer"
+						},
+						{
+							"label": "Object Type",
+							"value": "Photograph"
+						},
+						{
+							"label": "Link to more information",
+							"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
+						}
+					],
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -239,6 +293,28 @@
 					"label": "Port Alberni Pulp Mill lime kiln stack, April 21",
 					"height": 5985,
 					"width": 3470,
+					"metadata": [
+						{
+							"label": "Title",
+							"value": "Port Alberni Pulp Mill lime kiln stack, April 21"
+						},
+						{
+							"label": "Description",
+							"value": "Port Alberni Pulp Mill lime kiln stack, April 21"
+						},
+						{
+							"label": "Author",
+							"value": "Joe Photographer"
+						},
+						{
+							"label": "Object Type",
+							"value": "Photograph"
+						},
+						{
+							"label": "Link to more information",
+							"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
+						}
+					],
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -299,6 +375,28 @@
 					"label": "Farm scrap builds destroyers. 900 tons of scrap metal goes into a destroyer",
 					"height": 4105,
 					"width": 2970,
+					"metadata": [
+						{
+							"label": "Title",
+							"value": "War Poster: Farm scrap builds destroyers. 900 tons of scrap metal goes into a destroyer"
+						},
+						{
+							"label": "Description",
+							"value": "Farm scrap builds destroyers. 900 tons of scrap metal goes into a destroyer"
+						},
+						{
+							"label": "Author",
+							"value": "Joe Photographer"
+						},
+						{
+							"label": "Object Type",
+							"value": "Poster"
+						},
+						{
+							"label": "Link to more information",
+							"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
+						}
+					],
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -359,6 +457,28 @@
 					"label": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station",
 					"height": 7823,
 					"width": 5161,
+					"metadata": [
+						{
+							"label": "Title",
+							"value": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station"
+						},
+						{
+							"label": "Description",
+							"value": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station"
+						},
+						{
+							"label": "Author",
+							"value": "Joe Photographer"
+						},
+						{
+							"label": "Object Type",
+							"value": "Poster"
+						},
+						{
+							"label": "Link to more information",
+							"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
+						}
+					],
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
