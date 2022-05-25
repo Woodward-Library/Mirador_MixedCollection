@@ -23,9 +23,8 @@
 						{
 							"label": "Title",
 							"value": "358948",
-							"Creator":"joe smo",
-							"Date":"today",
-							"description":"this is a test description for this image"
+							"label":"Description",
+							"value":"This is the best description ever <a href='https://google.ca'>test</a>",
 						}
 					],
 					"images": [
