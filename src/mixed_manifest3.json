@@ -22,11 +22,17 @@
 					"metadata": [
 						{
 							"label": "Title",
-							"value": "358948",
+							"value": "358948"
+						},
+						{
 							"label": "Description",
-							"value": "This is the best description ever <a href='https://google.ca'>test</a>",
+							"value": "This is the best description ever <a href='https://google.ca'>test</a>"
+						},
+						{
 							"label": "Author",
-							"value": "Abbotsford Post",
+							"value": "Abbotsford Post"
+						},
+						{
 							"label": "Object Type",
 							"value": "Newspaper"
 						}
