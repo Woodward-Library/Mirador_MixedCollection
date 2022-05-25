@@ -23,8 +23,12 @@
 						{
 							"label": "Title",
 							"value": "358948",
-							"label":"Description",
-							"value":"This is the best description ever <a href='https://google.ca'>test</a>"
+							"label": "Description",
+							"value": "This is the best description ever <a href='https://google.ca'>test</a>",
+							"label": "Author",
+							"value": "Abbotsford Post",
+							"label": "Object Type",
+							"value": "Newspaper"
 						}
 					],
 					"images": [
