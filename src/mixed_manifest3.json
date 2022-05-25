@@ -26,15 +26,19 @@
 						},
 						{
 							"label": "Description",
-							"value": "This is the best description ever <a href='https://google.ca'>test</a>"
+							"value": "This is the first page of the April 19, 1912 edition of the Abbotsford Post"
 						},
 						{
-							"label": "Author",
+							"label": "Publisher",
 							"value": "Abbotsford Post"
 						},
 						{
 							"label": "Object Type",
 							"value": "Newspaper"
+						},
+						{
+							"label": "Link to more information",
+							"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
 						}
 					],
 					"images": [
