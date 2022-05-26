@@ -69,8 +69,8 @@
 		 {
        "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2",
        "type": "Canvas",
-       "height": 3024,
-       "width": 4032,
+			 "height": 7823,
+ 			"width": 5161,
 	 	 	"label": "Page 2 - Darwin letter",
 			 "metadata": [
 				 {
