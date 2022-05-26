@@ -182,6 +182,16 @@
 				 "value": "Find out more! <a href='https://open.library.ubc.ca/collections/darwin/items/1.0000098'>Open Collections</a>"
 			 }
 		 ],
+		 "rendering": [
+			 {
+				 "id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
+				 "type": "Text",
+				 "label": { "en": [ "Full Text Download" ] },
+				 "format": "txt file"
+			 }
+		 ],
+
+
        "items": [
          {
            "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1",
@@ -265,14 +275,7 @@
          }
        ],
 
-			   "rendering": [
-			     {
-			       "id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
-			       "type": "Text",
-			       "label": { "en": [ "Full Text Download" ] },
-			       "format": "txt file"
-			     }
-			   ]
+	
 
 
      }
