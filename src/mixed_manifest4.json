@@ -263,10 +263,19 @@
              }
            ]
          }
-       ]
+       ],
+
+			   "rendering": [
+			     {
+			       "id": "https://example.org/1.pdf",
+			       "type": "Text",
+			       "label": { "en": [ "PDF Rendering of Book" ] },
+			       "format": "application/pdf"
+			     }
+			   ]
+
+
      }
-
-
 
 
    ],
