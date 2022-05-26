@@ -8,6 +8,71 @@
 
 
 	"items": [
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3",
+			"type": "Canvas",
+			"height": 3000,
+	  	"width": 2036,
+			"label": "New",
+			"metadata": [
+			 {
+				 "label": "Title",
+				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
+			 },
+			 {
+				 "label": "Description",
+				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
+			 },
+			 {
+				 "label": "Author",
+				 "value": "Charles Darwin"
+			 },
+			 {
+				 "label": "Object Type",
+				 "value": "Manuscript"
+			 },
+			 {
+				 "label": "Link to more information",
+				 "value": "Find out more! <a href='https://google.ca'>Test Link</a>"
+			 }
+		 ],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "Annotation",
+					"label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 3000,
+								"width": 2036,
+								"service": [
+									{
+										"id": "https://oc2-iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3"
+						}
+					]
+				}
+
+
+			],
+
+		},
+
+
+
+
      {
        "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1",
        "type": "Canvas",
