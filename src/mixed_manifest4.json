@@ -159,7 +159,7 @@
        "type": "Canvas",
 			 "height": 7823,
  			"width": 5161,
-	 	 	"label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2",
+	 	 	"label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2!",
 			"metadata": [
 			 {
 				 "label": "Title",
@@ -186,7 +186,7 @@
 			 {
 				 "id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
 				 "type": "Text",
-				 "label": { "en": [ "Full Text Download" ] },
+				 "label": "Full Text Download",
 				 "format": "txt file"
 			 }
 		 ],
