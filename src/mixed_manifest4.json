@@ -114,7 +114,38 @@
                    {
                      "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0001",
 										 "@context": "http://iiif.io/api/image/2/context.json",
-                     "profile":	"http://iiif.io/api/image/2/level2.json"
+										 "profile": [
+											 "http://iiif.io/api/image/2/level2.json",
+											 {
+												 "formats": [
+													 "jpg",
+													 "png",
+													 "gif",
+													 "webp"
+												 ],
+												 "qualities": [
+													 "color",
+													 "gray",
+													 "bitonal"
+												 ],
+												 "supports": [
+													 "baseUriRedirect",
+													 "cors",
+													 "jsonldMediaType",
+													 "mirroring",
+													 "regionByPct",
+													 "regionByPx",
+													 "rotationArbitrary",
+													 "rotationBy90s",
+													 "sizeByWhListed",
+													 "sizeByForcedWh",
+													 "sizeByH",
+													 "sizeByPct",
+													 "sizeByW",
+													 "sizeByWh"
+												 ]
+											 }
+										 ]
                    }
                  ]
                },
