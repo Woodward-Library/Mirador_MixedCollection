@@ -199,7 +199,11 @@
 				 "value": "Find out more! <a href='https://open.library.ubc.ca/collections/darwin/items/1.0000098'>Open Collections</a>"
 			 }
 		 ],
-
+		 "service": {
+		    "@context": "http://iiif.io/api/search/1/context.json",
+		    "@id": "http://example.org/services/identifier/search",
+		    "profile": "http://iiif.io/api/search/1/search"
+		  },
 
 
        "items": [
