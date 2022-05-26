@@ -267,10 +267,10 @@
 
 			   "rendering": [
 			     {
-			       "id": "https://example.org/1.pdf",
+			       "id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
 			       "type": "Text",
-			       "label": { "en": [ "PDF Rendering of Book" ] },
-			       "format": "application/pdf"
+			       "label": { "en": [ "Full Text Download" ] },
+			       "format": "txt file"
 			     }
 			   ]
 
