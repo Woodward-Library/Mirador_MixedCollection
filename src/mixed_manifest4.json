@@ -287,7 +287,7 @@
 
 
 	"description": "This is a manifest of items from different collections",
-	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@context": "http://iiif.io/api/presentation/3/context.json",
 	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest.json",
 	"@type": "sc:Manifest"
 }
