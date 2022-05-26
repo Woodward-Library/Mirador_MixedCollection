@@ -773,13 +773,32 @@
 										}
 									],
 									"related": ""
-								}
+								},
 
-
+								"annotations": [
+					        {
+					          "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-2",
+					          "type": "AnnotationPage",
+					          "items": [
+					            {
+					              "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-2/anno-1",
+					              "type": "Annotation",
+					              "motivation": "commenting",
+					              "body": {
+					                "type": "TextualBody",
+					                "language": "de",
+					                "format": "text/plain",
+					                "value": "Göttinger Marktplatz mit Gänseliesel Brunnen"
+					              },
+					              "target": "http://d22c4fbd-e513-4992-a88b-aaae305f4892"
+					            }
+					          ]
+					        }
+					      ]
 			]
 		}
 	],
-	"description": "The Abbotsford Post was published in Abbotsford, in the Fraser Valley region of southwestern British Columbia. The Post was published and edited by John Alexander Bates, and it was the first paper targeted specifically at the Abbotsford area. The paper has since been bought and sold a number of times, and continues to be published to this day under the title of the Abbotsford News.",
+	"description": "This is a manifest of items from different collections",
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest.json",
 	"@type": "sc:Manifest"
