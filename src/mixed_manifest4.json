@@ -775,25 +775,7 @@
 									"related": ""
 								},
 
-            "annotations":[
-							{
-								"id":"",
-								"type":"AnnotationPage",
-								"items":[
-									{
-										"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-2/anno-1",
-				            "type": "Annotation",
-				            "motivation": "commenting",
-										"body": {
-						          	"type": "TextualBody",
-						           	"format": "text/plain",
-							          "value": "Göttinger Marktplatz mit Gänseliesel Brunnen"
-						         },
-									},
-									"target":"http://d22c4fbd-e513-4992-a88b-aaae305f4892"
-								]
-							}
-						],
+  
 
 			]
 		}
