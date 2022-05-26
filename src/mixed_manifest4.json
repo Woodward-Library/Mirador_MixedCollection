@@ -98,7 +98,7 @@
          {
            "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1",
            "type": "AnnotationPage",
-					 "label": "this is the label",
+					 "label": "Page 2 - Darwin letter",
            "items": [
              {
                "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1/anno-1",
