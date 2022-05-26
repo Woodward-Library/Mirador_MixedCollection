@@ -13,7 +13,29 @@
        "type": "Canvas",
 			 "height": 4839,
 			 "width": 3053,
-			 "label": "Darwin letter page 1",
+			 "label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1",
+			 "metadata": [
+				{
+					"label": "Title",
+					"value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
+				},
+				{
+					"label": "Description",
+					"value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
+				},
+				{
+					"label": "Author",
+					"value": "Charles Darwin"
+				},
+				{
+					"label": "Object Type",
+					"value": "Manuscript"
+				},
+				{
+					"label": "Link to more information",
+					"value": "Find out more! <a href='https://google.ca'>Test Link</a>"
+				}
+			],
        "items": [
          {
            "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
@@ -72,29 +94,29 @@
        "type": "Canvas",
 			 "height": 7823,
  			"width": 5161,
-	 	 	"label": "Page 2 - Darwin letter",
-			 "metadata": [
-				 {
-					 "label": "Title",
-					 "value": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station"
-				 },
-				 {
-					 "label": "Description",
-					 "value": "Heroes of St. Julien and Festubert ... shall we follow their example? Apply at recruiting station"
-				 },
-				 {
-					 "label": "Author",
-					 "value": "Joe Photographer"
-				 },
-				 {
-					 "label": "Object Type",
-					 "value": "Poster"
-				 },
-				 {
-					 "label": "Link to more information",
-					 "value": "Find out more! <a href='https://google.ca'>Test Link</a>"
-				 }
-			 ],
+	 	 	"label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2",
+			"metadata": [
+			 {
+				 "label": "Title",
+				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2"
+			 },
+			 {
+				 "label": "Description",
+				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2"
+			 },
+			 {
+				 "label": "Author",
+				 "value": "Charles Darwin"
+			 },
+			 {
+				 "label": "Object Type",
+				 "value": "Manuscript"
+			 },
+			 {
+				 "label": "Link to more information",
+				 "value": "Find out more! <a href='https://google.ca'>Test Link</a>"
+			 }
+		 ],
        "items": [
          {
            "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1",
