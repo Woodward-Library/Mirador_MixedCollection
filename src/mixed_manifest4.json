@@ -108,8 +108,8 @@
                  "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0001/full/full/0/default.jpg",
                  "type": "Image",
                  "format": "image/jpeg",
-                 "height": 3024,
-                 "width": 4032,
+								 "height": 7823,
+	 							 "width": 5161,
                  "service": [
                    {
                      "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0001",
