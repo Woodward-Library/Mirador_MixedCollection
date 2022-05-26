@@ -44,7 +44,7 @@
 					"items": [
 						{
 							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
-							"type": "Annotation",
+							"type": "AnnotationPage",
 							"motivation": "painting",
 							"body": {
 								"id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/full/0/default.jpg",
@@ -64,9 +64,16 @@
 						}
 					]
 				}
+			],
+			"annotations": [
+		        {
+		          "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/externalAnnotationpage.json",
+		          "type": "AnnotationPage"
+		        }
+		      ]
 
 
-			]
+
 
 		},
 
@@ -168,6 +175,8 @@
 					"format": "txt file"
 				}
 			],
+			 "summary": { "en": [ "This is a summary of the object." ] },
+
 			"metadata": [
 			 {
 				 "label": "Title",
