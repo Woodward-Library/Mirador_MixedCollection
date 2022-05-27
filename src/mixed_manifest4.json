@@ -171,8 +171,8 @@
 				{
 					"id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
 					"type": "Text",
-					"label": "Full Text Download",
-					"format": "txt file"
+					"label": {"en": ["View as PDF"]},
+					"format": "application/pdf"
 				}
 			],
 			 "summary": { "en": [ "This is a summary of the object." ] },
