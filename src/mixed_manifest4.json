@@ -171,7 +171,7 @@
 				{
 					"id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
 					"type": "Text",
-					"label": {"en": ["View as PDF"]},
+					"label": "View as text file",
 					"format": "application/pdf"
 				}
 			],
