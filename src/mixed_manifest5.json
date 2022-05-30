@@ -1,0 +1,311 @@
+{
+	"label": "A Potpourri of Objects",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged",
+	"metadata": [],
+	"thumbnail": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/80,100/0/default.jpg",
+	"attribution": "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from the Digitization Centre: http://digitize.library.ubc.ca/",
+
+
+	"items": [
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3",
+			"type": "Canvas",
+			"height": 3000,
+	  	"width": 2036,
+			"label": "AbbotsfordPost April 19, 1912 - Page 1",
+			"metadata": [
+			 {
+				 "label": "Title",
+				 "value": "The Abbotsford Post"
+			 },
+			 {
+				 "label": "Description",
+				 "value": "AbbotsfordPost_358948 - Page 1"
+			 },
+			 {
+				 "label": "Author",
+				 "value": "Abbotsford Post"
+			 },
+			 {
+				 "label": "Object Type",
+				 "value": "Newspaper"
+			 },
+			 {
+				 "label": "Download the Full Text",
+				 "value": " <a href='https://open.library.ubc.ca/media/download/full-text/xabpost/1.0168453/0.txt'>Full Text Transcript</a>"
+			 }
+		 ],
+		 "partOf": [{
+       "id": "https://example.org/object1/manifest",
+       "type": "Collection"
+      }],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "Annotation",
+					"label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "AnnotationPage",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 3000,
+								"width": 2036,
+								"service": [
+									{
+										"id": "https://oc2-iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3"
+						}
+					]
+				}
+			],
+			"annotations": [
+		        {
+		          "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/externalAnnotationpage.json",
+		          "type": "AnnotationPage"
+		        }
+		      ]
+
+
+
+
+		},
+
+
+
+
+     {
+       "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1",
+       "type": "Canvas",
+			 "height": 4839,
+			 "width": 3053,
+			 "label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1",
+			 "metadata": [
+				{
+					"label": "Title",
+					"value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
+				},
+				{
+					"label": "Description",
+					"value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
+				},
+				{
+					"label": "Author",
+					"value": "Charles Darwin"
+				},
+				{
+					"label": "Object Type",
+					"value": "Manuscript"
+				},
+				{
+					"label": "Link to more information",
+					"value": "Find out more! <a href='https://open.library.ubc.ca/collections/darwin/items/1.0000098'>Open Collections</a>"
+				}
+			],
+       "items": [
+         {
+           "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+           "type": "AnnotationPage",
+					 "label": "this is the label",
+           "items": [
+             {
+               "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+               "type": "Annotation",
+               "motivation": "painting",
+               "body": {
+                 "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0000/full/full/0/default.jpg",
+                 "type": "Image",
+                 "format": "image/jpeg",
+								 "height": 4839,
+								 "width": 3053,
+                 "service": [
+                   {
+                     "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0000",
+                     "profile": "level1",
+                     "type": "ImageService3"
+                   }
+                 ]
+               },
+               "target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1"
+             }
+           ]
+         }
+
+
+       ],
+       "annotations": [
+         {
+           "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+           "type": "AnnotationPage",
+           "items": [
+             {
+               "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+               "type": "Annotation",
+               "motivation": "commenting",
+               "body": {
+                 "type": "TextualBody",
+                 "language": "en",
+                 "format": "text/plain",
+                 "value": " Letterhead: <br>n/a  Bassett Southampton  My dear Dr. Sanderson   I am much obliged for your letter which has been forwarded to me here but I return home next Thursday. I assure you I felt quite guilty when I read in the Times your grand address on Physiology, at the thought that I had troubled you, at such a time, with my queries.  I quite understand what you say about heat rigor. I should think that it would be extremely interesting to ascertain whether there is any electrical change in the leaves of Drosera when they are excited; but I should think Dionaea would be much better for the purpose. As far as I can imperfectly make out the lower surface of the leaf in Dionaea, and of the tentacles (i.e. ? tions of the leaf) of Drosera is always in a state of tension, but is over mastered by the contraction of the upper surface alone.  Therefore I imagine that the upper & lower surface would exhibit an electrical change (if such there be) during the act of inflection. Now 'Dionaea, from the large size of the leaf and from the suddenness and greatness of the movement, would be the best to operate on. If on further reflection you are willing to investigate this point, I would gladly send you by a servant plants in good condition; for I suppose you would require to have the plants at the Institute and not at Down.  If you obtained any results, it seems to me that it would be a remarkable discovery and well worth your publishing. I had thought that it might be worthwhile to test Dionaea during inflection by the thermo-electric pile. A common thermometer gave no indication of any rise of temperature, so that it seems very doubtful whether the experiment would be worth trying. If you find you have time and inclination to examine Dionaea or Drosera under the foregoing point of view, please do let me hear.  With many thanks, your very sincerely  Charles Darwin"
+               },
+               "target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1"
+             }
+           ]
+         }
+       ]
+     },
+
+		 {
+      "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2",
+      "type": "Canvas",
+			"height": 7823,
+ 			"width": 5161,
+	 	 	"label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2!",
+			"rendering": [
+				{
+					"id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
+					"type": "Text",
+					"label": "View as text file",
+					"format": "application/pdf"
+				}
+			],
+			 "summary": { "en": [ "This is a summary of the object." ] },
+
+			"metadata": [
+			 {
+				 "label": "Title",
+				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2"
+			 },
+			 {
+				 "label": "Description",
+				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2"
+			 },
+			 {
+				 "label": "Author",
+				 "value": "Charles Darwin"
+			 },
+			 {
+				 "label": "Object Type",
+				 "value": "Manuscript"
+			 },
+			 {
+				 "label": "Link to more information",
+				 "value": "Find out more! <a href='https://open.library.ubc.ca/collections/darwin/items/1.0000098'>Open Collections</a>"
+			 }
+		 ],
+		 "service": {
+		    "@context": "http://iiif.io/api/search/1/context.json",
+		    "@id": "http://example.org/services/identifier/search",
+		    "profile": "http://iiif.io/api/search/1/search"
+		  },
+
+
+       "items": [
+         {
+           "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1",
+           "type": "AnnotationPage",
+
+           "items": [
+             {
+               "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1/anno-1",
+               "type": "Annotation",
+               "motivation": "painting",
+               "body": {
+                 "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0001/full/full/0/default.jpg",
+                 "type": "Image",
+                 "format": "image/jpeg",
+								 "height": 7823,
+	 							 "width": 5161,
+                 "service": [
+                   {
+                     "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0001",
+										 "@context": "http://iiif.io/api/image/2/context.json",
+										 "profile": [
+											 "http://iiif.io/api/image/2/level2.json",
+											 {
+												 "formats": [
+													 "jpg",
+													 "png",
+													 "gif",
+													 "webp"
+												 ],
+												 "qualities": [
+													 "color",
+													 "gray",
+													 "bitonal"
+												 ],
+												 "supports": [
+													 "baseUriRedirect",
+													 "cors",
+													 "jsonldMediaType",
+													 "mirroring",
+													 "regionByPct",
+													 "regionByPx",
+													 "rotationArbitrary",
+													 "rotationBy90s",
+													 "sizeByWhListed",
+													 "sizeByForcedWh",
+													 "sizeByH",
+													 "sizeByPct",
+													 "sizeByW",
+													 "sizeByWh"
+												 ]
+											 }
+										 ]
+                   }
+                 ]
+               },
+               "target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2"
+             }
+           ]
+         }
+
+
+       ],
+       "annotations": [
+         {
+           "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1",
+           "type": "AnnotationPage",
+           "items": [
+             {
+               "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1/anno-1",
+               "type": "Annotation",
+               "motivation": "commenting",
+               "body": {
+                 "type": "TextualBody",
+                 "language": "en",
+                 "format": "text/plain",
+                 "value": " Letterhead:<br> n/a  Bassett Southampton  My dear Dr. Sanderson <br>  I am much obliged for your letter which has been forwarded to me here but I return home next Thursday. I assure you I felt quite guilty when I read in the Times your grand address on Physiology, at the thought that I had troubled you, at such a time, with my queries.<br>  I quite understand what you say about heat rigor. I should think that it would be extremely interesting to ascertain whether there is any electrical change in the leaves of Drosera when they are excited; but I should think Dionaea would be much better for the purpose. As far as I can imperfectly make out the lower surface of the leaf in Dionaea, and of the tentacles (i.e. ? tions of the leaf) of Drosera is always in a state of tension, but is over mastered by the contraction of the upper surface alone.  Therefore I imagine that the upper & lower surface would exhibit an electrical change (if such there be) during the act of inflection. Now 'Dionaea, from the large size of the leaf and from the suddenness and greatness of the movement, would be the best to operate on. If on further reflection you are willing to investigate this point, I would gladly send you by a servant plants in good condition; for I suppose you would require to have the plants at the Institute and not at Down.  If you obtained any results, it seems to me that it would be a remarkable discovery and well worth your publishing. I had thought that it might be worthwhile to test Dionaea during inflection by the thermo-electric pile. A common thermometer gave no indication of any rise of temperature, so that it seems very doubtful whether the experiment would be worth trying. If you find you have time and inclination to examine Dionaea or Drosera under the foregoing point of view, please do let me hear.  With many thanks, your very sincerely  Charles Darwin"
+               },
+               "target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2"
+             }
+           ]
+         }
+       ]
+
+
+
+
+     }
+
+
+   ],
+
+
+
+
+	"description": "This is a manifest of items from different collections",
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest.json",
+	"@type": "sc:Manifest"
+}
