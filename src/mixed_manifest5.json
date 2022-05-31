@@ -1,16 +1,14 @@
 {
+	"@context": "http://iiif.io/api/presentation/3/context.json",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest5.json",
 	"label": "A Potpourri of Objects",
 	"viewingDirection": "left-to-right",
 	"viewingHint": "paged",
 	"metadata": [],
 	"thumbnail": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/80,100/0/default.jpg",
 	"attribution": "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from the Digitization Centre: http://digitize.library.ubc.ca/",
-
-		"description": "This is a manifest of items from different collections",
-		"@context": "http://iiif.io/api/presentation/3/context.json",
-		"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest5.json",
-		"@type": "sc:Manifest",
-
+  "description": "This is a manifest of items from different collections",
+	"@type": "sc:Manifest",
 	"items": [
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3",
