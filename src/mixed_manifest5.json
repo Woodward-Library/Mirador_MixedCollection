@@ -8,7 +8,7 @@
 
 		"description": "This is a manifest of items from different collections",
 		"@context": "http://iiif.io/api/presentation/3/context.json",
-		"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest.json",
+		"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest5.json",
 		"@type": "sc:Manifest",
 
 	"items": [
@@ -62,7 +62,7 @@
 							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
 							"type": "AnnotationPage",
 							"motivation": "painting",
-						
+
 							"body": {
 								"id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/full/0/default.jpg",
 								"type": "Image",
