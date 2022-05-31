@@ -56,33 +56,13 @@
 					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
 					"type": "Annotation",
 					"label": "this is the label",
-					"partOf": [
-						{
-						"id": "https://iiif.wellcomecollection.org/presentation/collections/contributors/New_Finsbury_Dispensary,_West_Smithfield.",
-						"type": "Collection",
-						"label": {
-							"en": [
-							"This is part of Collection within the ITEMS"
-							]
-						}
-					 }
-				 ],
+
 					"items": [
 						{
 							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
 							"type": "AnnotationPage",
 							"motivation": "painting",
-							"partOf": [
-								{
-								"id": "https://iiif.wellcomecollection.org/presentation/collections/contributors/New_Finsbury_Dispensary,_West_Smithfield.",
-								"type": "Collection",
-								"label": {
-									"en": [
-									"This is part of Collection within the ITEMS pt 2"
-									]
-								}
-							 }
-						 ],
+						
 							"body": {
 								"id": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/full/0/default.jpg",
 								"type": "Image",
