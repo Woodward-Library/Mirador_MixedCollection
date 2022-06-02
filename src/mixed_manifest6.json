@@ -248,32 +248,9 @@
          }
 
 
-       ],
-       "annotations": [
-         {
-           "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1",
-           "type": "AnnotationPage",
-           "items": [
-             {
-               "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2/annopage-1/anno-1",
-               "type": "Annotation",
-               "motivation": "commenting",
-               "body": {
-                 "type": "TextualBody",
-                 "language": "en",
-                 "format": "text/plain",
-                 "value": " Letterhead:<br> n/a  Bassett Southampton  My dear Dr. Sanderson <br>  I am much obliged for your letter which has been forwarded to me here but I return home next Thursday. I assure you I felt quite guilty when I read in the Times your grand address on Physiology, at the thought that I had troubled you, at such a time, with my queries.<br>  I quite understand what you say about heat rigor. I should think that it would be extremely interesting to ascertain whether there is any electrical change in the leaves of Drosera when they are excited; but I should think Dionaea would be much better for the purpose. As far as I can imperfectly make out the lower surface of the leaf in Dionaea, and of the tentacles (i.e. ? tions of the leaf) of Drosera is always in a state of tension, but is over mastered by the contraction of the upper surface alone.  Therefore I imagine that the upper & lower surface would exhibit an electrical change (if such there be) during the act of inflection. Now 'Dionaea, from the large size of the leaf and from the suddenness and greatness of the movement, would be the best to operate on. If on further reflection you are willing to investigate this point, I would gladly send you by a servant plants in good condition; for I suppose you would require to have the plants at the Institute and not at Down.  If you obtained any results, it seems to me that it would be a remarkable discovery and well worth your publishing. I had thought that it might be worthwhile to test Dionaea during inflection by the thermo-electric pile. A common thermometer gave no indication of any rise of temperature, so that it seems very doubtful whether the experiment would be worth trying. If you find you have time and inclination to examine Dionaea or Drosera under the foregoing point of view, please do let me hear.  With many thanks, your very sincerely  Charles Darwin"
-               },
-               "target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-2"
-             }
-           ]
-         }
        ]
 
-
-
-
-     },
+   },
 
 
 		 {
@@ -301,7 +278,7 @@
 			},
 			{
 				"label": "View the full Item page",
-				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/27323904-1071-42ee-b332-3ead8f716a1a'>Full Item Page</a>"
+				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/64f5f732-1699-4fed-b015-315f378c08e0'>Full Item Page</a>"
 			}
 		 ],
 			 "items": [
@@ -315,14 +292,14 @@
 							 "type": "Annotation",
 							 "motivation": "painting",
 							 "body": {
-								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg/full/max/0/default.jpeg",
+								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzc4ODMyMjUzMTA1NzE5ODMyMDA2NDI0NDc3MzE2NDEyOTAyODMiLCJsIjo1ODgxOTk0LCJtIjoiaW1hZ2VcL2pwZWcifQ.1m2_EINwrRb3QAXlLiTXUVriZZUjiDV5coU46R2R1f4.jpeg/full/max/0/default.jpeg",
 								 "type": "Image",
 								 "format": "image/jpeg",
 								"height": 4839,
 								"width": 3053,
 								 "service": [
 									 {
-										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg",
+										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzc4ODMyMjUzMTA1NzE5ODMyMDA2NDI0NDc3MzE2NDEyOTAyODMiLCJsIjo1ODgxOTk0LCJtIjoiaW1hZ2VcL2pwZWcifQ.1m2_EINwrRb3QAXlLiTXUVriZZUjiDV5coU46R2R1f4.jpeg",
 										 "profile": "level1",
 										 "type": "ImageService3"
 									 }
@@ -362,7 +339,7 @@
 			},
 			{
 				"label": "View the full Item page",
-				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/27323904-1071-42ee-b332-3ead8f716a1a'>Full Item Page</a>"
+				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/43484a22-79f9-4eeb-845e-477413537ab7'>Full Item Page</a>"
 			}
 		 ],
 			 "items": [
@@ -376,14 +353,14 @@
 							 "type": "Annotation",
 							 "motivation": "painting",
 							 "body": {
-								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg/full/max/0/default.jpeg",
+								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTM4OTYwNjYyODE2NzAyMjgyNjEyMzk4MjczNDU3MTExMDEyNzc1IiwibCI6NTQyNDcwMCwibSI6ImltYWdlXC9qcGVnIn0.tcJn5SVZwUzwkRSamXF3rKk5SKlolBrBIY_Vsd9yoH0.jpeg/full/max/0/default.jpeg",
 								 "type": "Image",
 								 "format": "image/jpeg",
 								"height": 4839,
 								"width": 3053,
 								 "service": [
 									 {
-										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg",
+										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTM4OTYwNjYyODE2NzAyMjgyNjEyMzk4MjczNDU3MTExMDEyNzc1IiwibCI6NTQyNDcwMCwibSI6ImltYWdlXC9qcGVnIn0.tcJn5SVZwUzwkRSamXF3rKk5SKlolBrBIY_Vsd9yoH0.jpeg",
 										 "profile": "level1",
 										 "type": "ImageService3"
 									 }
@@ -423,7 +400,7 @@
 			},
 			{
 				"label": "View the full Item page",
-				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/27323904-1071-42ee-b332-3ead8f716a1a'>Full Item Page</a>"
+				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/84a265d7-2ad8-4438-b29c-502f022753bf'>Full Item Page</a>"
 			}
 		 ],
 			 "items": [
@@ -437,14 +414,14 @@
 							 "type": "Annotation",
 							 "motivation": "painting",
 							 "body": {
-								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg/full/max/0/default.jpeg",
+								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTEwMjkwNzQ5ODYyMDA1MDI0NjM5MzIyODM5NzcwMTM3ODY3MjM5IiwibCI6NDQxODg4NiwibSI6ImltYWdlXC9qcGVnIn0.5nMSlTQZUZdLDsewogEQHlkUzEf0IkXE9TS4Pt6N6r0.jpeg/full/max/0/default.jpeg",
 								 "type": "Image",
 								 "format": "image/jpeg",
 								"height": 4839,
 								"width": 3053,
 								 "service": [
 									 {
-										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg",
+										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTEwMjkwNzQ5ODYyMDA1MDI0NjM5MzIyODM5NzcwMTM3ODY3MjM5IiwibCI6NDQxODg4NiwibSI6ImltYWdlXC9qcGVnIn0.5nMSlTQZUZdLDsewogEQHlkUzEf0IkXE9TS4Pt6N6r0.jpeg",
 										 "profile": "level1",
 										 "type": "ImageService3"
 									 }
