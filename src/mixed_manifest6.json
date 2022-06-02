@@ -13,8 +13,8 @@
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3",
 			"type": "Canvas",
-			"height": 3000,
-	  	"width": 2036,
+			"width" : 5119,
+      "height" : 6318,
 			"label": "Rosetti Studios - Stanley Park Collection",
 			"metadata": [
 			 {
@@ -23,15 +23,15 @@
 			 },
 			 {
 				 "label": "Creator",
-				 "value": ""
+				 "value": "Rosetti Photographic Studios	"
 			 },
 			 {
 				 "label": "Date Created",
-				 "value": ""
+				 "value": "1912"
 			 },
 			 {
 				 "label": "Digital identifier",
-				 "value": "Newspaper"
+				 "value": "BC_1903_31_10"
 			 },
 			 {
 				 "label": "View the full Item page",
@@ -44,7 +44,7 @@
 		   "type": "Collection",
 		   "label": {
 		     "en": [
-		     "Contributor: New Finsbury Dispensary, West Smithfield."
+		     "Rosetti Studios - Stanley Park Collection"
 		     ]
 		   }
 		  }
@@ -98,8 +98,8 @@
      {
        "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1",
        "type": "Canvas",
-			 "height": 4839,
-			 "width": 3053,
+			 "width" : 6342,
+			 "height" : 5131,
 			 "label": "Rosetti Studios - Stanley Park Collection",
 			 "metadata": [
 	 		 {
@@ -108,15 +108,15 @@
 	 		 },
 	 		 {
 	 			 "label": "Creator",
-	 			 "value": ""
+	 			 "value": "Rosetti Photographic Studios"
 	 		 },
 	 		 {
 	 			 "label": "Date Created",
-	 			 "value": ""
+	 			 "value": "1912"
 	 		 },
 	 		 {
 	 			 "label": "Digital identifier",
-	 			 "value": "Newspaper"
+	 			 "value": "BC_1903_31_50"
 	 		 },
 	 		 {
 	 			 "label": "View the full Item page",
@@ -137,8 +137,8 @@
                  "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg/full/max/0/default.jpeg",
                  "type": "Image",
                  "format": "image/jpeg",
-								 "height": 4839,
-								 "width": 3053,
+								 "width" : 6342,
+				         "height" : 5131,
                  "service": [
                    {
                      "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg",
@@ -169,15 +169,15 @@
 		  },
 		  {
 		 	 "label": "Creator",
-		 	 "value": ""
+		 	 "value": "Rosetti Photographic Studios	"
 		  },
 		  {
 		 	 "label": "Date Created",
-		 	 "value": ""
+		 	 "value": "1912"
 		  },
 		  {
 		 	 "label": "Digital identifier",
-		 	 "value": "Newspaper"
+		 	 "value": "BC_1903_31_06"
 		  },
 		  {
 		 	 "label": "View the full Item page",
@@ -201,8 +201,8 @@
                  "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiOTQxMjc2NDIwNDgxNjEwMjUzNzI1ODk1MDkzMTQ5ODE4NzgwMzQiLCJsIjo0OTI4MDgyLCJtIjoiaW1hZ2VcL2pwZWcifQ.-s7ZI2ahiZbyhsZXT6QvS2A4xxofyQp1h8B0hlLv1vo.jpeg/full/max/0/default.jpeg",
                  "type": "Image",
                  "format": "image/jpeg",
-								 "height": 7823,
-	 							 "width": 5161,
+								 "width" : 5111,
+								 "height" : 6307,
                  "service": [
                    {
                      "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiOTQxMjc2NDIwNDgxNjEwMjUzNzI1ODk1MDkzMTQ5ODE4NzgwMzQiLCJsIjo0OTI4MDgyLCJtIjoiaW1hZ2VcL2pwZWcifQ.-s7ZI2ahiZbyhsZXT6QvS2A4xxofyQp1h8B0hlLv1vo.jpeg",
@@ -266,15 +266,15 @@
 			},
 			{
 				"label": "Creator",
-				"value": ""
+				"value": "Rosetti Photographic Studios"
 			},
 			{
 				"label": "Date Created",
-				"value": ""
+				"value": "1912"
 			},
 			{
 				"label": "Digital identifier",
-				"value": "Newspaper"
+				"value": "BC_1903_31_51"
 			},
 			{
 				"label": "View the full Item page",
@@ -295,8 +295,8 @@
 								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzc4ODMyMjUzMTA1NzE5ODMyMDA2NDI0NDc3MzE2NDEyOTAyODMiLCJsIjo1ODgxOTk0LCJtIjoiaW1hZ2VcL2pwZWcifQ.1m2_EINwrRb3QAXlLiTXUVriZZUjiDV5coU46R2R1f4.jpeg/full/max/0/default.jpeg",
 								 "type": "Image",
 								 "format": "image/jpeg",
-								"height": 4839,
-								"width": 3053,
+								 "width" : 5107,
+							   "height" : 6284,
 								 "service": [
 									 {
 										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzc4ODMyMjUzMTA1NzE5ODMyMDA2NDI0NDc3MzE2NDEyOTAyODMiLCJsIjo1ODgxOTk0LCJtIjoiaW1hZ2VcL2pwZWcifQ.1m2_EINwrRb3QAXlLiTXUVriZZUjiDV5coU46R2R1f4.jpeg",
@@ -327,15 +327,15 @@
 			},
 			{
 				"label": "Creator",
-				"value": ""
+				"value": "Rosetti Photographic Studios"
 			},
 			{
 				"label": "Date Created",
-				"value": ""
+				"value": "1912"
 			},
 			{
 				"label": "Digital identifier",
-				"value": "Newspaper"
+				"value": "BC_1903_31_05"
 			},
 			{
 				"label": "View the full Item page",
@@ -356,8 +356,8 @@
 								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTM4OTYwNjYyODE2NzAyMjgyNjEyMzk4MjczNDU3MTExMDEyNzc1IiwibCI6NTQyNDcwMCwibSI6ImltYWdlXC9qcGVnIn0.tcJn5SVZwUzwkRSamXF3rKk5SKlolBrBIY_Vsd9yoH0.jpeg/full/max/0/default.jpeg",
 								 "type": "Image",
 								 "format": "image/jpeg",
-								"height": 4839,
-								"width": 3053,
+								 "width" : 6324,
+							   "height" : 5107,
 								 "service": [
 									 {
 										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTM4OTYwNjYyODE2NzAyMjgyNjEyMzk4MjczNDU3MTExMDEyNzc1IiwibCI6NTQyNDcwMCwibSI6ImltYWdlXC9qcGVnIn0.tcJn5SVZwUzwkRSamXF3rKk5SKlolBrBIY_Vsd9yoH0.jpeg",
@@ -388,15 +388,15 @@
 			},
 			{
 				"label": "Creator",
-				"value": ""
+				"value": "Rosetti Photographic Studios"
 			},
 			{
 				"label": "Date Created",
-				"value": ""
+				"value": "1912"
 			},
 			{
 				"label": "Digital identifier",
-				"value": "Newspaper"
+				"value": "BC_1903_31_25	"
 			},
 			{
 				"label": "View the full Item page",
@@ -417,8 +417,8 @@
 								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTEwMjkwNzQ5ODYyMDA1MDI0NjM5MzIyODM5NzcwMTM3ODY3MjM5IiwibCI6NDQxODg4NiwibSI6ImltYWdlXC9qcGVnIn0.5nMSlTQZUZdLDsewogEQHlkUzEf0IkXE9TS4Pt6N6r0.jpeg/full/max/0/default.jpeg",
 								 "type": "Image",
 								 "format": "image/jpeg",
-								"height": 4839,
-								"width": 3053,
+								 "width" : 5058,
+						     "height" : 6295,
 								 "service": [
 									 {
 										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTEwMjkwNzQ5ODYyMDA1MDI0NjM5MzIyODM5NzcwMTM3ODY3MjM5IiwibCI6NDQxODg4NiwibSI6ImltYWdlXC9qcGVnIn0.5nMSlTQZUZdLDsewogEQHlkUzEf0IkXE9TS4Pt6N6r0.jpeg",
