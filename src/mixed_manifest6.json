@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
-	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest5.json",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest6.json",
 	"label": "Rosetti Studios - Stanley Park Collection",
 	"viewingDirection": "left-to-right",
 	"viewingHint": "paged",
