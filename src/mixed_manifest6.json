@@ -69,7 +69,7 @@
 				        "height" : 6318,
 								"service": [
 									{
-										"id": "https://oc2-iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000",
+										"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTAyOTE3NTEzNzIwNzYyMjU4OTczNDkwMDY1NTU4NzQ4NzczNzQ5IiwibCI6NTE3NTA0NSwibSI6ImltYWdlXC9qcGVnIn0.M5rW1XtXzI7AEkS_EBuGebyKp5Pinp6yS0YMc2CPHkw.jpeg",
 										"profile": "level1",
 										"type": "ImageService3"
 									}
