@@ -15,7 +15,7 @@
 			"type": "Canvas",
 			"width" : 5119,
       "height" : 6318,
-			"label": "Rosetti Studios - Stanley Park Collection",
+			"label": "No. 10 - Scatter of Fairy Lights Mid Ferns and Vine Maple, Stanley Park, Vancouver, B.C.",
 			"metadata": [
 			 {
 				 "label": "Title",
@@ -79,13 +79,7 @@
 						}
 					]
 				}
-			],
-			"annotations": [
-		        {
-		          "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/externalAnnotationpage.json",
-		          "type": "AnnotationPage"
-		        }
-		      ]
+			]
 
 
 
@@ -100,7 +94,7 @@
        "type": "Canvas",
 			 "width" : 6342,
 			 "height" : 5131,
-			 "label": "Rosetti Studios - Stanley Park Collection",
+			 "label": "No. 50 - Early Spring Sunshine, Driveway, Stanley Park, Vancouver, B.C.",
 			 "metadata": [
 	 		 {
 	 			 "label": "Title",
@@ -161,7 +155,7 @@
       "type": "Canvas",
 			"height": 7823,
  			"width": 5161,
-			"label": "Rosetti Studios - Stanley Park Collection",
+			"label": "No. 6 - The Shimmering Lights of Summery Woods, Stanley Park, Vancouver, B.C.",
 		  "metadata": [
 		  {
 		 	 "label": "Title",
@@ -258,7 +252,7 @@
 			 "type": "Canvas",
 			"height": 4839,
 			"width": 3053,
-			"label": "Rosetti Studios - Stanley Park Collection",
+			"label": "No. 51 - Among the 'Seven Sisters' Big Trees, Stanley Park, Vancouver, B.C.",
 			"metadata": [
 			{
 				"label": "Title",
@@ -319,7 +313,7 @@
 			 "type": "Canvas",
 			"height": 4839,
 			"width": 3053,
-			"label": "Rosetti Studios - Stanley Park Collection",
+			"label": "No. 5 - Lake Trail, Stanley Park, Vancouver, B.C.",
 			"metadata": [
 			{
 				"label": "Title",
@@ -380,7 +374,7 @@
 			 "type": "Canvas",
 			"height": 4839,
 			"width": 3053,
-			"label": "Rosetti Studios - Stanley Park Collection",
+			"label": "No. 25 - Lighthouse at First Narrows from East of Prospect Point, Stanley Park, Vancouver, B.C.",
 			"metadata": [
 			{
 				"label": "Title",
@@ -434,7 +428,250 @@
 
 
 			 ]
+		 },
+		 {
+		 	"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-7",
+		 	"type": "Canvas",
+		  "height": 4839,
+		  "width": 3053,
+		  "label": "No. 64 - Across English Bay to Point Atkinson , Stanley Park, Vancouver, B.C.",
+		  "metadata": [
+		  {
+		 	 "label": "Title",
+		 	 "value": "No. 64 - Across English Bay to Point Atkinson , Stanley Park, Vancouver, B.C."
+		  },
+		  {
+		 	 "label": "Creator",
+		 	 "value": "Rosetti Photographic Studios"
+		  },
+		  {
+		 	 "label": "Date Created",
+		 	 "value": "1912"
+		  },
+		  {
+		 	 "label": "Digital identifier",
+		 	 "value": "BC_1903_31_64"
+		  },
+		  {
+		 	 "label": "View the full Item page",
+		 	 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/ebb52e77-3c33-4485-bc37-6843bdd0a1c3'>Full Item Page</a>"
+		  }
+		 ],
+		 	"items": [
+		 		{
+		 			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+		 			"type": "AnnotationPage",
+		 		 "label": "this is the label",
+		 			"items": [
+		 				{
+		 					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+		 					"type": "Annotation",
+		 					"motivation": "painting",
+		 					"body": {
+		 						"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNTU3NTk3MDg3MTAzMjEyOTM1Njk3MTg3NjUzNTMzNTY0MjcwNjQiLCJsIjozNjkzMjY3LCJtIjoiaW1hZ2VcL2pwZWcifQ.784wqo_6viBjFMt_I0QxcwgCf30LCupfNjK96Z-rVEU.jpeg/full/max/0/default.jpeg",
+		 						"type": "Image",
+		 						"format": "image/jpeg",
+		 						"width" : 5058,
+		 						"height" : 6295,
+		 						"service": [
+		 							{
+		 								"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNTU3NTk3MDg3MTAzMjEyOTM1Njk3MTg3NjUzNTMzNTY0MjcwNjQiLCJsIjozNjkzMjY3LCJtIjoiaW1hZ2VcL2pwZWcifQ.784wqo_6viBjFMt_I0QxcwgCf30LCupfNjK96Z-rVEU.jpeg",
+		 								"profile": "level1",
+		 								"type": "ImageService3"
+		 							}
+		 						]
+		 					},
+		 					"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-7"
+		 				}
+		 			]
+		 		}
+
+
+		 	]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-8",
+			"type": "Canvas",
+			"width" : 5135,
+      "height" : 6324,
+		 "label": "No. 13 - The Glad Confusion of the Riotous Woods, Stanley Park, Vancouver, B.C.",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "No. 13 - The Glad Confusion of the Riotous Woods, Stanley Park, Vancouver, B.C."
+		 },
+		 {
+			 "label": "Creator",
+			 "value": "Rosetti Photographic Studios"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "1912"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "BC_1903_31_13"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/c230c0c1-5cb5-41f3-8cb2-7f4d8bf75288'>Full Item Page</a>"
 		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiODYxMjczNjIyMjAxMjc4ODEyMzM3MjgzNzY3MzQwNTM3MDc0MiIsImwiOjQ4NzA2ODIsIm0iOiJpbWFnZVwvanBlZyJ9.2UnUIZc_AHZ6FoZps_BWeQOC0tYRwiLgIR9D6MxDfjQ.jpeg/full/max/0/default.jpeg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5135,
+					      "height" : 6324,
+								"service": [
+									{
+										"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiODYxMjczNjIyMjAxMjc4ODEyMzM3MjgzNzY3MzQwNTM3MDc0MiIsImwiOjQ4NzA2ODIsIm0iOiJpbWFnZVwvanBlZyJ9.2UnUIZc_AHZ6FoZps_BWeQOC0tYRwiLgIR9D6MxDfjQ.jpeg",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-8"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-9",
+			"type": "Canvas",
+			"width" : 5117,
+       "height" : 6294,
+		 "label": "No. 45 - March Weather 'A Mossy Creek', Stanley Park, Vancouver, B.C.",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "No. 45 - March Weather 'A Mossy Creek', Stanley Park, Vancouver, B.C."
+		 },
+		 {
+			 "label": "Creator",
+			 "value": "Rosetti Photographic Studios"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "1912"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "BC_1903_31_45"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/d613aebf-4d6a-4172-afcf-cd4b6beaa891'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiODEwNTU1NTkxMTIyMzUyNzY5MjA5NjAzNTA3Njc2NzcxMzY1MjIiLCJsIjo2OTM5ODYzLCJtIjoiaW1hZ2VcL2pwZWcifQ.D7HNYdhRzlDq2GwFErAC-zMydGwV8QC2SAgPuUPQ3AQ.jpeg/full/max/0/default.jpeg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5117,
+			          "height" : 6294,
+								"service": [
+									{
+										"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiODEwNTU1NTkxMTIyMzUyNzY5MjA5NjAzNTA3Njc2NzcxMzY1MjIiLCJsIjo2OTM5ODYzLCJtIjoiaW1hZ2VcL2pwZWcifQ.D7HNYdhRzlDq2GwFErAC-zMydGwV8QC2SAgPuUPQ3AQ.jpeg",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-9"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-10",
+			"type": "Canvas",
+		  "width" : 5102,
+	   "height" : 6300,
+		 "label": "No. 20 - Totem near Otter Pond, Stanley Park, Vancouver, B.C.",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "No. 20 - Totem near Otter Pond, Stanley Park, Vancouver, B.C."
+		 },
+		 {
+			 "label": "Creator",
+			 "value": "Rosetti Photographic Studios"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "1912"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "BC_1903_31_20"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/9b3b8089-4b38-4c22-bf6b-4b7b5cc9113c'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzQxMjE4NTA4MTcwMzkxOTU4NjAwNDQyODU3OTI1NDUwNDc1MiIsImwiOjcwMTAyNDAsIm0iOiJpbWFnZVwvanBlZyJ9.VqQfKnjfnbrrZFeRtW-t4Ut8QFkv7b-6iYFeylCtZds.jpeg/full/max/0/default.jpeg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzQxMjE4NTA4MTcwMzkxOTU4NjAwNDQyODU3OTI1NDUwNDc1MiIsImwiOjcwMTAyNDAsIm0iOiJpbWFnZVwvanBlZyJ9.VqQfKnjfnbrrZFeRtW-t4Ut8QFkv7b-6iYFeylCtZds.jpeg",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-10"
+						}
+					]
+				}
+
+
+			]
+		}
+
+
+
 
 
    ]
