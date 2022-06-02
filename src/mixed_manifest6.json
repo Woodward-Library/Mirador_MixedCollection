@@ -1,7 +1,7 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
 	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest5.json",
-	"label": "A Potpourri of Objects",
+	"label": "Rosetti Studios - Stanley Park Collection",
 	"viewingDirection": "left-to-right",
 	"viewingHint": "paged",
 	"metadata": [],
@@ -15,7 +15,7 @@
 			"type": "Canvas",
 			"height": 3000,
 	  	"width": 2036,
-			"label": "AbbotsfordPost April 19, 1912 - Page 1",
+			"label": "Rosetti Studios - Stanley Park Collection",
 			"metadata": [
 			 {
 				 "label": "Title",
@@ -23,7 +23,7 @@
 			 },
 			 {
 				 "label": "Creator",
-				 "value": "AbbotsfordPost_358948 - Page 1"
+				 "value": ""
 			 },
 			 {
 				 "label": "Date Created",
@@ -100,29 +100,29 @@
        "type": "Canvas",
 			 "height": 4839,
 			 "width": 3053,
-			 "label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1",
+			 "label": "Rosetti Studios - Stanley Park Collection",
 			 "metadata": [
-				{
-					"label": "Title",
-					"value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
-				},
-				{
-					"label": "Description",
-					"value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 1"
-				},
-				{
-					"label": "Author",
-					"value": "Charles Darwin"
-				},
-				{
-					"label": "Object Type",
-					"value": "Manuscript"
-				},
-				{
-					"label": "Link to more information",
-					"value": "Find out more! <a href='https://open.library.ubc.ca/collections/darwin/items/1.0000098'>Open Collections</a>"
-				}
-			],
+	 		 {
+	 			 "label": "Title",
+	 			 "value": "No. 50 - Early Spring Sunshine, Driveway, Stanley Park, Vancouver, B.C."
+	 		 },
+	 		 {
+	 			 "label": "Creator",
+	 			 "value": ""
+	 		 },
+	 		 {
+	 			 "label": "Date Created",
+	 			 "value": ""
+	 		 },
+	 		 {
+	 			 "label": "Digital identifier",
+	 			 "value": "Newspaper"
+	 		 },
+	 		 {
+	 			 "label": "View the full Item page",
+	 			 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/27323904-1071-42ee-b332-3ead8f716a1a'>Full Item Page</a>"
+	 		 }
+	 	  ],
        "items": [
          {
            "id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
@@ -134,14 +134,14 @@
                "type": "Annotation",
                "motivation": "painting",
                "body": {
-                 "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0000/full/full/0/default.jpg",
+                 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg/full/max/0/default.jpeg",
                  "type": "Image",
                  "format": "image/jpeg",
 								 "height": 4839,
 								 "width": 3053,
                  "service": [
                    {
-                     "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0000",
+                     "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg",
                      "profile": "level1",
                      "type": "ImageService3"
                    }
@@ -181,44 +181,30 @@
       "type": "Canvas",
 			"height": 7823,
  			"width": 5161,
-	 	 	"label": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2!",
-			"rendering": [
-				{
-					"id": "https://open.library.ubc.ca/media/download/full-text/darwin/1.0000098/0.txt",
-					"type": "Text",
-					"label": "View as text file",
-					"format": "application/pdf"
-				}
-			],
-			 "summary": { "en": [ "This is a summary of the object." ] },
-
-			"metadata": [
-			 {
-				 "label": "Title",
-				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2"
-			 },
-			 {
-				 "label": "Description",
-				 "value": "Letter, Charles R. Darwin to John Burdon-Sanderson, August 15, 1873 - Page 2"
-			 },
-			 {
-				 "label": "Author",
-				 "value": "Charles Darwin"
-			 },
-			 {
-				 "label": "Object Type",
-				 "value": "Manuscript"
-			 },
-			 {
-				 "label": "Link to more information",
-				 "value": "Find out more! <a href='https://open.library.ubc.ca/collections/darwin/items/1.0000098'>Open Collections</a>"
-			 }
-		 ],
-		 "service": {
-		    "@context": "http://iiif.io/api/search/1/context.json",
-		    "@id": "http://example.org/services/identifier/search",
-		    "profile": "http://iiif.io/api/search/1/search"
+			"label": "Rosetti Studios - Stanley Park Collection",
+		  "metadata": [
+		  {
+		 	 "label": "Title",
+		 	 "value": "No. 6 - The Shimmering Lights of Summery Woods, Stanley Park, Vancouver, B.C."
 		  },
+		  {
+		 	 "label": "Creator",
+		 	 "value": ""
+		  },
+		  {
+		 	 "label": "Date Created",
+		 	 "value": ""
+		  },
+		  {
+		 	 "label": "Digital identifier",
+		 	 "value": "Newspaper"
+		  },
+		  {
+		 	 "label": "View the full Item page",
+		 	 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/ac5bef5d-3edd-4943-b923-01298e1de6f8'>Full Item Page</a>"
+		  }
+		 ],
+
 
 
        "items": [
@@ -232,14 +218,14 @@
                "type": "Annotation",
                "motivation": "painting",
                "body": {
-                 "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0001/full/full/0/default.jpg",
+                 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiOTQxMjc2NDIwNDgxNjEwMjUzNzI1ODk1MDkzMTQ5ODE4NzgwMzQiLCJsIjo0OTI4MDgyLCJtIjoiaW1hZ2VcL2pwZWcifQ.-s7ZI2ahiZbyhsZXT6QvS2A4xxofyQp1h8B0hlLv1vo.jpeg/full/max/0/default.jpeg",
                  "type": "Image",
                  "format": "image/jpeg",
 								 "height": 7823,
 	 							 "width": 5161,
                  "service": [
                    {
-                     "id": "https://oc2-iiif.library.ubc.ca/image/cdm.darwin.1-0000098.0001",
+                     "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiOTQxMjc2NDIwNDgxNjEwMjUzNzI1ODk1MDkzMTQ5ODE4NzgwMzQiLCJsIjo0OTI4MDgyLCJtIjoiaW1hZ2VcL2pwZWcifQ.-s7ZI2ahiZbyhsZXT6QvS2A4xxofyQp1h8B0hlLv1vo.jpeg",
 										 "@context": "http://iiif.io/api/image/2/context.json",
 										 "profile": [
 											 "http://iiif.io/api/image/2/level2.json",
