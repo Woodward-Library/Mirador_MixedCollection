@@ -9,6 +9,17 @@
 	"attribution": "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from the Digitization Centre: http://digitize.library.ubc.ca/",
   "description": "This is a manifest of items from different collections",
 	"@type": "sc:Manifest",
+	"partOf": [
+		{
+		"id": "https://iiif.wellcomecollection.org/presentation/collections/contributors/New_Finsbury_Dispensary,_West_Smithfield.",
+		"type": "Collection",
+		"label": {
+			"en": [
+			"Contributor: New Finsbury Dispensary, West Smithfield."
+			]
+		}
+	 }
+ ],
 	"items": [
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3",
