@@ -9,6 +9,17 @@
 	"attribution": "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from the Digitization Centre: http://digitize.library.ubc.ca/",
   "description": "Rosetti Studios - Stanley Park Collection",
 	"@type": "sc:Manifest",
+	"partOf": [
+		{
+		"id": "https://ubc-dams.atmire.us/entities/exhibit/bc3b4e8e-3e96-48a7-8112-3fe469ff3d76",
+		"type": "Collection",
+		"label": {
+			"en": [
+			"Rosetti Studios - Stanley Park Collection"
+			]
+		}
+	 }
+ ],
 	"items": [
 		{
 			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-3",
@@ -38,17 +49,7 @@
 				 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/5c892792-7397-4a85-bb7d-fa7c138facb5'>Full Item Page</a>"
 			 }
 		 ],
-		 "partOf": [
-		   {
-		   "id": "https://ubc-dams.atmire.us/entities/exhibit/bc3b4e8e-3e96-48a7-8112-3fe469ff3d76",
-		   "type": "Collection",
-		   "label": {
-		     "en": [
-		     "Rosetti Studios - Stanley Park Collection"
-		     ]
-		   }
-		  }
-		],
+
 			"items": [
 				{
 					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
