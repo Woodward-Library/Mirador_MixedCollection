@@ -1,0 +1,21 @@
+{
+  "id": "https://iiif.wellcomecollection.org/presentation/collections/contributors/New_Finsbury_Dispensary,_West_Smithfield.",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "Contributor: Enter info here"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest6.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Rosetti Studios - Stanley Park Collection"
+        ]
+      }
+
+    }
+  ]
+}

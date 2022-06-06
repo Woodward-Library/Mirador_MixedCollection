@@ -11,7 +11,7 @@
 	"@type": "sc:Manifest",
 	"partOf": [
 		{
-		"id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest6.json",
+		"id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest_Collection.json",
 		"type": "Collection",
 		"label": {
 			"en": [
