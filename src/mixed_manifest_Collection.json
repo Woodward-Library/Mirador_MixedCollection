@@ -6,6 +6,25 @@
       "Rosetti Studios Stanley Park Collection"
     ]
   },
+	"description": ["Collection Description here - some things"],
+  "requiredStatement":
+    {
+    "label": { "en": [ "See more in Open Collections" ] },
+    "value": { "en": [ "<a href='https://ubc-dams-test.atmire.us/entities/exhibit/bc3b4e8e-3e96-48a7-8112-3fe469ff3d76'>Rosetti Studios Stanley Park Collection</a>" ] }
+    },
+
+
+  "metadata":[
+
+		{
+			"label": "Date Created",
+			"value": ["1912"]
+		},
+    {
+      "label": "See more in UBC Library Digital Collections",
+      "value": ["<a href='https://ubc-dams-test.atmire.us/entities/exhibit/bc3b4e8e-3e96-48a7-8112-3fe469ff3d76'>Rosetti Studios Stanley Park Collection</a>"]
+    }
+  ],
   "items": [
     {
       "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest6.json",
